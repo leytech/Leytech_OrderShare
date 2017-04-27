@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <!--
 /**
-* @package    Leytech_OrderShare
-* @author     Chris Nolan (chris@leytech.co.uk)
-* @copyright  Copyright (c) 2017 Leytech
-* @license    https://opensource.org/licenses/MIT  The MIT License  (MIT)
-*/
+ * @package    Leytech_OrderShare
+ * @author     Chris Nolan (chris@leytech.co.uk)
+ * @copyright  Copyright (c) 2017 Leytech
+ * @license    https://opensource.org/licenses/MIT  The MIT License  (MIT)
+ */
 -->
 <config>
     <acl>
