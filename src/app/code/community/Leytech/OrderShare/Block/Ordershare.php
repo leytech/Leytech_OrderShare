@@ -2,8 +2,8 @@
 /**
  * @package    Leytech_OrderShare
  * @author     Chris Nolan (chris@leytech.co.uk)
- * @copyright  Copyright (c) 2017 Chris Nolan
- * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ * @copyright  Copyright (c) 2017 Leytech
+ * @license    https://opensource.org/licenses/MIT  The MIT License  (MIT)
  */
 
 class Leytech_OrderShare_Block_Ordershare extends Mage_Checkout_Block_Onepage_Success {
