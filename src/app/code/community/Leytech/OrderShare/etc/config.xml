@@ -48,6 +48,7 @@
             <settings>
                 <enabled>0</enabled>
                 <column_count>4</column_count>
+                <twitter_username></twitter_username>
             </settings>
         </leytech_ordershare>
     </default>
