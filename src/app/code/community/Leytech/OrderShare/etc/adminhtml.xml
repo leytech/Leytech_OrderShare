@@ -18,7 +18,7 @@
                                 <children>
                                     <leytech_ordershare translate="title" module="leytech_ordershare">
                                         <title>Leytech Order Share</title>
-                                        <sort_order>1006000</sort_order>
+                                        <sort_order>12150</sort_order>
                                     </leytech_ordershare>
                                 </children>
                             </config>
